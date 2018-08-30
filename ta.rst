@@ -8,6 +8,7 @@ Ceci est un exemple de doc sur les TA !!!
     
 
 ### Comportement constaté
+
 ```gherkin
      Étant donné un OT de type "Fibre" dans le module "Affectation"
      Et l'activité/produit est "Act. Prod."
@@ -18,6 +19,7 @@ Ceci est un exemple de doc sur les TA !!!
 ```
 
 ### Comportement attendu
+
 ```gherkin
      Étant donné un OT de type "Type" dans le module "Affectation"
      Et le produit est "FTH"
